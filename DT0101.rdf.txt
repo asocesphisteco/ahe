@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Paper 1.0
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Javier Moreno Lázaro
+Author-X-Name-First: Javier
+Author-X-Name-Last: Moreno Lázaro
+Author-Workplace-Name: Universidad de Valladolid
+Title: Precios de las subsistencias, salarios nominales y niveles de vida en c
+Castilla la Vieja. Palencia, 1751-1861
+Abstract:  New estimates of the cost of living and of the wages in Palencia are presented in order to evaluate the effects of the agrarian capitalism in Castillian working class’ real income from 1751 to 1861. I obtained both prices (incluiding rents) and wages (earned by bricklayers and agricultural labourers) from a Palencia’s hospital records. These index suggest pesimism conclusions : standard of living improved over a 5% (10 points less than in Great Britain) between 1780 and 1859, increase that would be even smoller if we took into account unemployment and wages of children and women.
+Length: 38 pages 
+Creation-Date: 2001-05
+File-URL:https://media.timtul.com/media/web_aehe/dt-aehe-0101_20240108095350.pdf
+File-Format: Application/pdf
+Number:0101
+Classification-JEL: I00, J31, J33, N33
+Keywords: Standars of living, real wages, agrarian capitalism, unequality
+Handle: RePEc:ahe:dtaehe:0101
