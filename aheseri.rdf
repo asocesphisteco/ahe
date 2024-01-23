@@ -1,12 +1,12 @@
 Template-type: ReDIF-Series 1.0
-Name: Investigaciones de Historia Econ髆ica - Economic History Research (IHE-EHR), Journal of the Spanish Economic History Association
+Name: Investigaciones de Historia Econ贸mica - Economic History Research (IHE-EHR), Journal of the Spanish Economic History Association
 Description: IHE is a peer reviewed journal  devoted to original, high-quality research articles on the fields of economic history and history of economic thought. Its first issue was published in January 2005. IHE is publised by the Spanish Economic History Association three times a year. 
-Provider-Name: Asociaci髇 Espa駉la de Historia Econ髆ica
+Provider-Name: Asociaci贸n Espa帽ola de Historia Econ贸mica
 Provider-Name-English: Spanish Economic History Association 
 Provider-Homepage:http://www.aehe.es
 Provider-Institution: RePEc:edi:aeheeea
-Maintainer-Name: Mauricio Matus
-Maintainer-Email: mmatlop@upo.es
+Maintainer-Name: Elena Garcia Cruz
+Maintainer-Email: egcruz@us.es
 Restriction: This is an Open Access journal
 ISSN: 16986989
 Type: ReDIF-Article
@@ -16,14 +16,14 @@ Handle: RePEc:ahe:invest
 
 Template-type: ReDIF-Series 1.0
 Name: Documentos de Trabajo (DT-AEHE)
-Description: Working Paper Series of the Spanish Economic History Association -in Spanish: Documentos de Trabajo de la Asociacion Espa駉la de Historia Econ髆ica-. It includes papers in the series starting 2006. Economic History and subfields are the main topics (Business History, Agrarian History, History of Economic Ideas, etc). Papers, free to download, are mostly in Spanish with English abstract
-Provider-Name: Asociaci髇 Espa駉la de Historia Econ髆ica
+Description: Working Paper Series of the Spanish Economic History Association -in Spanish: Documentos de Trabajo de la Asociacion Espa帽ola de Historia Econ贸mica-. It includes papers in the series starting 2006. Economic History and subfields are the main topics (Business History, Agrarian History, History of Economic Ideas, etc). Papers, free to download, are mostly in Spanish with English abstract
+Provider-Name: Asociaci贸n Espa帽ola de Historia Econ贸mica
 Provider-Name-English: Spanish Economic History Association 
 Provider-Homepage:http://www.aehe.es
 Provider-Institution: RePEc:edi:aeheeea
-Maintainer-Name: Ant騨ia Morey
+Maintainer-Name: Ant貌nia Morey
 Maintainer-Email: antonia.morey@uib.es
-Editor-Name: Ant騨ia Morey
+Editor-Name: Ant貌nia Morey
 Editor-Email: antonia.morey@uib.es
 Type: ReDIF-Paper
 Handle: RePEc:ahe:dtaehe
