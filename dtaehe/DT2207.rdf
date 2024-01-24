@@ -1,0 +1,43 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Francisco J. Beltrán Tapia
+Author-X-Name-First: Francisco J.
+Author-X-Name-Last: Beltrán Tapia
+Author-Email: francisco.beltran.tapia@ntnu.no 
+Author-Workplace-Name: Norwegian University of Science and Technology
+Author-Name: Alfonso Díez Minguela
+Author-X-Name-First: Alfonso
+Author-X-Name-Last: Díez Minguela
+Author-Email: alfonso.diez@uv.es
+Author-Workplace-Name: Universitat de València
+Author-Name: Víctor Fernández Modrego
+Author-X-Name-First: Víctor
+Author-X-Name-Last: Fernández Modrego
+Author-Email: victor.fernandez-modrego@uv.es
+Author-Workplace-Name: Universitat de València
+Author-Name: Alicia Gómez Tello
+Author-X-Name-First: Alicia
+Author-X-Name-Last: Gómez Tello
+Author-Email: alicia.gomez-tello@uv.es
+Author-Workplace-Name: Universitat de València
+Author-Name: Julio Martínez-Galarraga
+Author-X-Name-First: Julio
+Author-X-Name-Last: Martínez-Galarraga
+Author-Email: julio.martinez@ub.edu
+Author-Workplace-Name: Universitat de Barcelona
+Author-Name: Daniel A. Tirado Fabregat
+Author-X-Name-First: Daniel A.
+Author-X-Name-Last: Tirado Fabregat
+Author-Email: daniel.tirado@uv.es
+Author-Workplace-Name: Universitat de València
+
+Title: ESPAREL. A look at the relationship between population and territory in Spain in historical perspective
+Abstract: This document presents ESPAREL (“España, del Antiguo Régimen al Estado Liberal”), a project in the field of digital humanities. The main objective of ESPAREL has been to generate a spatial data infrastructure (SDI) that allows linking the territorial structure of the Ancien Régime with that of the Liberal State at the end of the 19th century and with the current one, linking the existing population entities in (1) the Census of 1787 (CP1787), (2) the Nomenclator of Spain of 1887 (NE1887) and (3) the Basic General Nomenclator of Spain (NGBE). Firstly, the NE1887 (106,491 population entities) was digitised and converted into data format using optical character recognition techniques (OCR) and machine learning algorithm programming. The main entities of the NE1887 were then linked to the existing entities (NGBE), and given that the NGBE includes the geographical coordinates of the entities, this made it possible to geolocate the NE1887, opening the door to its processing by means of Geographical Information Systems (GIS). Once this work had been carried out, CP 1787 (20,236 entities organised into towns, villages, places, hamlets, etc.) was linked to this database. The results of this project, which can be consulted openly on the ESPAREL platform (www.esparel.com), will allow progress to be made in a number of areas of historical research. These include the study of changes in settlement patterns over time and the depopulation that has taken place in a significant part of Spain. By way of example, the second part of the text presents a case study, based on the Comunitat Valenciana, which, by going beyond the municipalities, shows the possibilities offered by ESPAREL to improve our knowledge of the origins of depopulation, with a level of territorial detail not achieved until now.
+Length: 34 pages
+Creation-Date: 2022-10
+File-URL: https://media.timtul.com/media/web_aehe/DT-AEHE-2207_20240108092731.pdf
+File-Format: Application/pdf
+Number: 2207
+Classification-JEL: C8, J1, H1, N9, O1, R1
+Keywords: digital humanities, population entities, nomenclator, census of 1787
+Handle: RePEc:ahe:dtaehe:2207
