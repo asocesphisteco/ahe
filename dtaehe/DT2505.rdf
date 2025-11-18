@@ -1,0 +1,36 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Alfonso Diez-Minguela
+Author-X-Name-First: Alfonso
+Author-X-Name-Last: Diez-Minguela
+Author-Email: alfonso.diez@uv.es
+Author-Workplace-Name: Universitat de València, Valencia (Spain)
+
+Author-Name: Francisco J. Goerlich
+Author-X-Name-First: Francisco J.
+Author-X-Name-Last: Goerlich
+Author-Email: francisco.j.goerlich@uv.es
+Author-Workplace-Name: Universitat de València & IVIE, Valencia (Spain)
+
+Author-Name: Rafael González Val
+Author-X-Name-First: Rafael
+Author-X-Name-Last: González Val
+Author-Email: rafaelg@unizar.es
+Author-Workplace-Name: Universidad de Zaragoza, Zaragoza (Spain)
+
+Author-Name: Daniel A. Tirado-Fabregat
+Author-X-Name-First: Daniel A.
+Author-X-Name-Last: Tirado-Fabregat
+Author-Email: daniel.tirado@uv.es
+Author-Workplace-Name: Universitat de València, Valencia (Spain)
+
+Title: Historical Population Grids and Settlement Dynamics in Spain: Spatial Distribution, Territorial Heterogeneity, and Depopulation from 1887 to 2021
+Abstract: This study presents a novel methodology for constructing a historical population grid, ESGRID1887, that sheds light on the spatial distribution of Spain’s population in the late nineteenth century. The grid is compared, at a granular and temporally consistent scale, with population settlement patterns revealed by the most recent population grid produced by EUROSTAT (GEOSTAT2021). ESGRID1887 uses data from the Nomenclátor of Spain (1887) and cadastral records to distribute the population reported in the 1887 Spanish Census across 1 km² cells. Unlike analyses based on administrative units (municipalities), this fine-grained approach highlights the historical significance of dispersed settlement across large areas of the Atlantic, Cantabrian, and Mediterranean peripheries, as well as in several mountainous regions of the peninsula in 1887. Moreover, the comparison with GEOSTAT2021 reveals that although the populated area increased from 21.6% of the territory in 1887 to 26.4% in 2021, this modest expansion resulted from two opposing dynamics: sprawl and depopulation. One third of the cells occupied in 2021 were uninhabited in 1887, while one third of those inhabited in 1887 are now uninhabited. The new evidence presented in this article thus reveals an additional dimension of the long-term depopulation process affecting a substantial part of Spain—the emptying of the territory—which has not previously been examined from a historical perspective.
+Length: 33 pages
+Creation-Date: 2025-11
+File-URL: https://media.timtul.com/media/web_aehe/DT_AEHE_2505_20251118130515.pdf
+File-Format: Application/pdf
+Number: 2505
+Classification-JEL: J11, N33, N01, R11, R23
+Keywords: Digital Humanities, Historical Grids, Depopulation, Geography, Spain
+Handle: RePEc:ahe:dtaehe:2505
